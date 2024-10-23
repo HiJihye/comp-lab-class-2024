@@ -1,0 +1,21 @@
+[{
+ "name": "part1",
+ "modelSeeds": [
+  "958384115"
+ ],
+ "sequences": [
+  {
+   "rnaSequence": {
+    "sequence": "UUUUUUUU",
+    "count": 1
+   }
+  },
+  {
+   "ligand": {
+    "ligand": "CCD_ATP",
+    "count": 1
+   }
+  }
+ ]
+}
+]
